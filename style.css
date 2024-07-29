@@ -1,0 +1,26 @@
+p{
+	color: white;
+	text-align: right;
+	font-family: cursive;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h2{	color: #000000; text-align: left;}
+
+body {background-image: url("kitty (_´˘`_)♡.jpg");}
+
+.petitpara{
+	width:280px;
+}
+
+.petitpara{
+	color:seagreen;
+	text-align: right;
+	background-image:  url("lily.JPG");
+	 background-size: 300px;
+  width: 300px;
+  height: 170px;
+  border: 2px solid;
+  color: #5c815f;
+}
